@@ -57,12 +57,12 @@ Follow these instructions to set up and run the project locally.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/dynamic-data-table.git
+    git clone [(https://github.com/arjunkapoor19/surefy-assignment.git)]
     ```
 
 2.  **Navigate to the project directory:**
     ```bash
-    cd dynamic-data-table
+    cd surefy-assignment
     ```
 
 3.  **Install dependencies:**
