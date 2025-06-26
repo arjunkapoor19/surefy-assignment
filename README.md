@@ -57,7 +57,7 @@ Follow these instructions to set up and run the project locally.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [(https://github.com/arjunkapoor19/surefy-assignment.git)]
+    git clone (https://github.com/arjunkapoor19/surefy-assignment.git)
     ```
 
 2.  **Navigate to the project directory:**
