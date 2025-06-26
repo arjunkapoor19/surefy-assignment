@@ -8,7 +8,7 @@ A feature-rich, enterprise-grade data table built with Next.js, Redux Toolkit, a
 [![Material-UI](https://img.shields.io/badge/Material--UI-v5-0081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)](https://mui.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-**Live Demo:** [[https://your-deployment-url.com](https://your-deployment-url.com) *(Replace with your Vercel/Netlify deployment link)*](https://surefy-assignment-7v62.vercel.app)
+**Live Demo:** *https://surefy-assignment-7v62.vercel.app*
 
 ---
 
